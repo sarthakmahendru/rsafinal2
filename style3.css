@@ -1,0 +1,15 @@
+.srt{
+    background-size:contain;
+}
+ul{
+    list-style: none;
+}
+.story2{
+    background-size: contain;
+    height: 50%;
+}
+.story1{
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+}

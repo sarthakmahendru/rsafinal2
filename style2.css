@@ -1,0 +1,82 @@
+p:hover{
+    color:darkblue;
+}
+.a1:hover{
+    color: blue;
+}
+h2:hover{
+    color: blue;
+}
+ul>li>a{
+    text-decoration: none;
+}
+.c1,.c2,.c3,.c4{
+    list-style: none;
+    display: inline;
+    text-align-last: right;
+    color: rgb(138, 43, 226);
+}
+.l1{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+    color: blueviolet;
+    background-color: cornsilk;
+    display: inline;
+    position: fixed;
+    width: 50%;
+}
+    
+.ll{
+    list-style: none;
+    text-decoration: none;
+    width: 100%;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+li>a:hover{
+    color: chartreuse;
+}
+.a1{
+    list-style:lower-alpha;
+    color: rgb(230, 68, 81);
+    background-color: chartreuse;
+}
+li>.a1{
+    color: chartreuse;
+}
+h1{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+/*h2{
+    background-color: chocolate;
+    color: chartreuse;
+} */
+p{
+    background-color:darkolivegreen;
+    color: yellow;
+}
+/*ul{
+    background-color: burlywood;
+} */
+ol{
+    background-color:  burlywood;
+    color: rgb(239, 145, 45);
+}
+.cpd1{
+    overflow: scroll;
+    height: 300px;
+}
+.container{
+    height :15%;
+    width: 100%;
+}
+
+.igh{
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+}
